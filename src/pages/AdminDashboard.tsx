@@ -3,6 +3,7 @@ import Button from "react-bootstrap/Button";
 import ApprovedItems from "../components/ApprovedItems";
 import Navbar from "../components/Navbar";
 
+// a team project-by Ninja_Crew (abhishek panwar & sushant giri)
 interface AdminDashboardProps {
   username: string;
   onLogout: () => void;
